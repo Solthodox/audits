@@ -28,4 +28,3 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 | ------------------------------------------------------------------------------------------------------------- | ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | [Morpho Blue (🎖️10)](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)              | December 2023    | Cantina | [Link](https://github.com/Solthodox/audits/blob/main/Contests/MorphoBlue.md)                                                                                                                           |
 | [Superform (🎖️13)](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)                                           | November 2023    | Cantina | [Link](https://github.com/Solthodox/audits/blob/main/Contests/KelpDao.md)                        |
-| 
